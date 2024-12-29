@@ -41,10 +41,22 @@ To assist friends and colleagues in passing the certifications I’ve completed 
 The repository contains various subfolders with information and resources for specific certifications:
 
 **Entry Level Certifications**
-- TBA
+- [AWS Certified AI Practitioner AIF-C01](TODO)
+- [Cilium Certified Associate](TODO)
+
+**Associate Level Certifications**
+- [Istio Certified Associate](TODO)
+- [Certified Argo Project Associate](TODO)
+- [Certified Backstage Associate](TODO)
+- [OpenTelemetry Certified Associate](TODO)
+- [Kyverno Certified Associate](TODO)
+- [AWS Certified Data Engineer - Associate DEA-C01](TODO)
+- [AWS Certified Machine Learning Engineer - Associate MLA-C01](TODO)
 
 **Professional Level Certifications**
-- TBA
+- [RedHat Certified System Administrator](TODO)
+- [AWS Certified Solutions Architect - Professional SAP-C02](TODO)
+- [AWS Certified DevOps Engineer - Professional DOP-C02](TODO)
 
 **Speciality Level Certifications**
 - TBA
