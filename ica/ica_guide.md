@@ -13,6 +13,8 @@
 ### Book Your Exam Here
 - [Istio Certified Associate (ICA)](https://training.linuxfoundation.org/certification/istio-certified-associate-ica/)
 
+*The exam costs $250. Explore potential discounts through LF or CNCF initiatives.*
+
 **Includes:**  
 Proctored: Online  
 Validity: Certification Valid for 2 Years  
@@ -79,6 +81,9 @@ Exam duration: 2 Hours
 
 ### Courses
 - [Linux Foundation: Introduction to Istio (LFS144)](https://trainingportal.linuxfoundation.org/courses/introduction-to-istio-lfs144)
+- [KodeKloud: Istio Service Mesh](https://learn.kodekloud.com/user/courses/istio-service-mesh) **Not a certification prep, but a good way to learn Istio and it comes with labs.**
+- [KillerCoda: Istio Certified Associate (ICA) - Lorenzo Gironi](https://killercoda.com/lorenzo-g) **These scenarios can be used standalone for ICA exam preparation or to learn and study Istio service mesh.**
+- [KillerCoda: Istio Certified Associate (ICA) - Community | David Pech](https://killercoda.com/ica-scenarios) **Interactive Scenarios for the ICA from maintainers**
 
 ### Practice Exams
 **TBA**

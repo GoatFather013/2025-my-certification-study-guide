@@ -11,7 +11,8 @@
 **TBA**
 
 ### Book Your Exam Here
-**TBA**
+
+*The exam costs $250. Explore potential discounts through LF or CNCF initiatives.*
 
 ---
 

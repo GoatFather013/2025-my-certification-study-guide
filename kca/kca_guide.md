@@ -13,7 +13,10 @@
 ### Book your exam Here
 **TBA**
 
-***Exam costs and discount information will be added here if applicable.***
+
+https://training.linuxfoundation.org/certification/kyverno-certified-associate-kca/
+
+*The exam costs $250. Explore potential discounts through LF or CNCF initiatives.*
 
 ---
 
@@ -97,6 +100,7 @@ Resources:
 
 ### Courses
 - [KodeKloud: Learn By Doing - Kubernetes Policies with Kyverno](https://learn.kodekloud.com/user/courses/learn-by-doing-kubernetes-policies-with-kyverno)
+- [KillerCoda: Kyverno](https://killercoda.com/kyverno)
 
 ### Practice Exams
 **TBA**

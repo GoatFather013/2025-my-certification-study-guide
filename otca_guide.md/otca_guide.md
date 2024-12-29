@@ -12,7 +12,8 @@
 ### Book your exam here
 **TBA**
 
-*The exam costs [Exam Fee]. Explore potential discounts through LF or CNCF initiatives.*
+*The exam costs $250. Explore potential discounts through LF or CNCF initiatives.*
+https://training.linuxfoundation.org/certification/opentelemetry-certified-associate-otca/
 
 ---
 
