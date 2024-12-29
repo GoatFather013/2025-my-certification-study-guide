@@ -82,13 +82,17 @@
 ## Additional Resources
 
 ### Courses
-**TBA**
+- [Introduction to Backstage: Developer Portals Made Easy (LFS142)](https://trainingportal.linuxfoundation.org/learn/course/introduction-to-backstage-developer-portals-made-easy-lfs142)
+- [Youtube: The Ultimate Backstage Guide (2024 Version) - Backstage with OrkoHunter (Tutorial)](https://www.youtube.com/watch?v=r46uFbu9wOs&list=PLSI4KG8iLsU4trUYpad8_qPH81pCjaba2)
 
 ### Practice Exams
-**TBA**
+- [Udemy: Certified Backstage Associate (CBA) Practice Exams](https://www.udemy.com/course/certified-backstage-associate-practice-exams)
+
+### Practice Labs
+*None Found*
 
 ### Sources
-**TBA**
+- [Sajeeva Lakmal: https://medium.com/@nvsajeeva/how-to-pass-cba-certified-backstage-associate-exam-6f761c395313](https://medium.com/@nvsajeeva/how-to-pass-cba-certified-backstage-associate-exam-6f761c395313)
 
 ### Time Spent
 **TBA**

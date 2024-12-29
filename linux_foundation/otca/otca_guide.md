@@ -92,7 +92,10 @@
 - [Linux Foundation: Getting Started with OpenTelemetry (LFS148)](https://trainingportal.linuxfoundation.org/courses/getting-started-with-opentelemetry-lfs148)
 
 ### Practice Exams
-**TBA**
+- [Udemy: OpenTelemetry Certified Associate (OTCA) Practice Exams](https://www.udemy.com/course/opentelemetry-certified-associate-practice-exams/?couponCode=KEEPLEARNING)
+
+### Practice Labs
+*None Found*
 
 ### Sources
 -[Sajeeva Lakmal: How to Pass OTCA (OpenTelemetry Certified Associate) Exam](https://medium.com/@nvsajeeva/how-to-pass-otca-opentelemetry-certified-associate-exam-e19d650cbe82)

@@ -114,6 +114,9 @@
 ### Practice Exams
 - [Udemy: Cilium Certified Associate Practice Exams](https://www.udemy.com/course/cilium-certified-associate-practice-exams)
 
+### Practice Labs
+*None Found*
+
 ### Sources
 - [Sajeeva Lakmal: How to Pass CCA (Cilium Certified Associate) Exam](https://medium.com/@nvsajeeva/how-to-pass-cca-cilium-certified-associate-exam-5a1b4f6ca63b)
 

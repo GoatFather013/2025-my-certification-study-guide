@@ -110,19 +110,15 @@
 ---
 
 ## Additional Resources
-- [Kyverno Official Documentation](https://kyverno.io/docs/)
-- [Kubernetes Documentation](https://kubernetes.io/docs/)
-- [Helm Documentation](https://helm.sh/docs/)
----
-
-## Additional Resources
 
 ### Courses
 - [KodeKloud: Learn By Doing - Kubernetes Policies with Kyverno](https://learn.kodekloud.com/user/courses/learn-by-doing-kubernetes-policies-with-kyverno)
-- [KillerCoda: Kyverno](https://killercoda.com/kyverno)
 
 ### Practice Exams
-**TBA**
+- [Udemy: Kyverno Certified Associate (KCA) Practice Exams](https://www.udemy.com/course/kyverno-certified-associate-practice-exams/)
+
+### Practice Labs
+- [KillerCoda: Kyverno](https://killercoda.com/kyverno)
 
 ### Sources
 **TBA**

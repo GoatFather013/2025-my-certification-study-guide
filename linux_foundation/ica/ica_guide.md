@@ -93,10 +93,12 @@
 - [Udemy: Labs - Exercise Istio Certified Associate - ICA](https://www.udemy.com/course/pe-lf-ica)
 - [Udemy: Istio Certified Associate (ICA) Practice Exams](https://www.udemy.com/course/istio-certified-associate-practice-exams)
 
-### Sources
-- [Sajeeva Lakmal: How to Pass ICA (Istio Certified Associate) Exam](https://medium.com/@nvsajeeva/how-to-pass-ica-istio-certified-associate-exam-355152566bc8)
+### Practice Labs
 - [KillerCoda: Istio Certified Associate (ICA) - Lorenzo Gironi](https://killercoda.com/lorenzo-g) **These scenarios can be used standalone for ICA exam preparation or to learn and study Istio service mesh.**
 - [KillerCoda: Istio Certified Associate (ICA) - Community | David Pech](https://killercoda.com/ica-scenarios) **Interactive Scenarios for the ICA from maintainers**
+
+### Sources
+- [Sajeeva Lakmal: How to Pass ICA (Istio Certified Associate) Exam](https://medium.com/@nvsajeeva/how-to-pass-ica-istio-certified-associate-exam-355152566bc8)
 - [KodeKloud: Istio Service Mesh](https://learn.kodekloud.com/user/courses/istio-service-mesh) **Not a certification prep, but a good way to learn Istio and it comes with labs.**
 - [Udemy: Istio Hands-On for Kubernetes](https://www.udemy.com/course/istio-hands-on-for-kubernetes)
 
