@@ -29,94 +29,63 @@
 ## Domains, Competencies, and Information
 
 ### Argo Workflows (36%)
-
-#### Understand Argo Workflow Fundamentals
-- **Resource**: [Argo Workflows Documentation](https://argoproj.github.io/argo-workflows/)
-- **Resource**: [Introduction to Argo Workflows](https://argoproj.github.io/argo-workflows/quick-start/)
-
-#### Generating and Consuming Artifacts
-- **Resource**: [Artifacts in Argo Workflows](https://argoproj.github.io/argo-workflows/artifacts/)
-- **Resource**: [S3 Artifact Storage](https://argoproj.github.io/argo-workflows/artifacts/#s3)
-
-#### Understand Argo Workflow Templates
-- **Resource**: [Workflow Templates Guide](https://argoproj.github.io/argo-workflows/workflow-templates/)
-
-#### Understand the Argo Workflow Spec
-- **Resource**: [Argo Workflow Spec Documentation](https://argoproj.github.io/argo-workflows/workflow-spec/)
-
-#### Work with DAG (Directed-Acyclic Graphs)
-- **Resource**: [DAG Workflows](https://argoproj.github.io/argo-workflows/dag/)
-- **Resource**: [DAG Task Dependencies](https://argoproj.github.io/argo-workflows/dag/#dependencies)
-
-#### Run Data Processing Jobs with Argo Workflows
-- **Resource**: [Data Processing with Argo Workflows](https://argoproj.github.io/argo-workflows/use-cases/)
-
----
+- **Understand Argo Workflow Fundamentals**
+  - [Argo Workflows Documentation](https://argoproj.github.io/argo-workflows/)
+  - [Introduction to Argo Workflows](https://argoproj.github.io/argo-workflows/quick-start/)
+- **Generating and Consuming Artifacts**
+  - [Artifacts in Argo Workflows](https://argoproj.github.io/argo-workflows/artifacts/)
+  - [S3 Artifact Storage](https://argoproj.github.io/argo-workflows/artifacts/#s3)
+- **Understand Argo Workflow Templates**
+  - [Workflow Templates Guide](https://argoproj.github.io/argo-workflows/workflow-templates/)
+- **Understand the Argo Workflow Spec**
+  - [Argo Workflow Spec Documentation](https://argoproj.github.io/argo-workflows/workflow-spec/)
+- **Work with DAG (Directed-Acyclic Graphs)**
+  - [DAG Workflows](https://argoproj.github.io/argo-workflows/dag/)
+  - [DAG Task Dependencies](https://argoproj.github.io/argo-workflows/dag/#dependencies)
+- **Run Data Processing Jobs with Argo Workflows**
+  - [Data Processing with Argo Workflows](https://argoproj.github.io/argo-workflows/use-cases/)
 
 ### Argo CD (34%)
-
-#### Understand Argo CD Fundamentals
-- **Resource**: [Argo CD Documentation](https://argo-cd.readthedocs.io/en/stable/)
-- **Resource**: [What is Argo CD?](https://argo-cd.readthedocs.io/en/stable/getting_started/)
-
-#### Synchronize Applications Using Argo CD
-- **Resource**: [Application Synchronization](https://argo-cd.readthedocs.io/en/stable/user-guide/sync-options/)
-
-#### Use Argo CD Application
-- **Resource**: [Application Management in Argo CD](https://argo-cd.readthedocs.io/en/stable/user-guide/application-operations/)
-
-#### Configure Argo CD with Helm and Kustomize
-- **Resource**: [Helm Configuration Guide](https://argo-cd.readthedocs.io/en/stable/user-guide/helm/)
-- **Resource**: [Kustomize Integration](https://argo-cd.readthedocs.io/en/stable/user-guide/kustomize/)
-
-#### Identify Common Reconciliation Patterns
-- **Resource**: [Application Synchronization Strategies](https://argo-cd.readthedocs.io/en/stable/user-guide/sync-waves/)
-- **Resource**: [Declarative GitOps with Argo CD](https://argo-cd.readthedocs.io/en/stable/declarative-setup/)
-
----
+- **Understand Argo CD Fundamentals**
+  - [Argo CD Documentation](https://argo-cd.readthedocs.io/en/stable/)
+  - [What is Argo CD?](https://argo-cd.readthedocs.io/en/stable/getting_started/)
+- **Synchronize Applications Using Argo CD**
+  - [Application Synchronization](https://argo-cd.readthedocs.io/en/stable/user-guide/sync-options/)
+- **Use Argo CD Application**
+  - [Application Management in Argo CD](https://argo-cd.readthedocs.io/en/stable/user-guide/application-operations/)
+- **Configure Argo CD with Helm and Kustomize**
+  - [Helm Configuration Guide](https://argo-cd.readthedocs.io/en/stable/user-guide/helm/)
+  - [Kustomize Integration](https://argo-cd.readthedocs.io/en/stable/user-guide/kustomize/)
+- **Identify Common Reconciliation Patterns**
+  - [Application Synchronization Strategies](https://argo-cd.readthedocs.io/en/stable/user-guide/sync-waves/)
+  - [Declarative GitOps with Argo CD](https://argo-cd.readthedocs.io/en/stable/declarative-setup/)
 
 ### Argo Rollouts (18%)
-
-#### Understand Argo Rollouts Fundamentals
-- **Resource**: [Argo Rollouts Documentation](https://argo-rollouts.readthedocs.io/en/stable/)
-- **Resource**: [Introduction to Argo Rollouts](https://argo-rollouts.readthedocs.io/en/stable/getting-started/)
-
-#### Use Common Progressive Rollout Strategies
-- **Resource**: [Progressive Delivery Strategies](https://argo-rollouts.readthedocs.io/en/stable/features/progressive-delivery/)
-- **Resource**: [Canary Deployments](https://argo-rollouts.readthedocs.io/en/stable/features/canary/)
-- **Resource**: [Blue/Green Deployments](https://argo-rollouts.readthedocs.io/en/stable/features/bluegreen/)
-
-#### Describe Analysis Template and AnalysisRun
-- **Resource**: [Analysis Templates](https://argo-rollouts.readthedocs.io/en/stable/features/analysis/)
-- **Resource**: [Using AnalysisRun for Rollouts](https://argo-rollouts.readthedocs.io/en/stable/features/analysis/#analysisrun)
-
----
+- **Understand Argo Rollouts Fundamentals**
+  - [Argo Rollouts Documentation](https://argo-rollouts.readthedocs.io/en/stable/)
+  - [Introduction to Argo Rollouts](https://argo-rollouts.readthedocs.io/en/stable/getting-started/)
+- **Use Common Progressive Rollout Strategies**
+  - [Progressive Delivery Strategies](https://argo-rollouts.readthedocs.io/en/stable/features/progressive-delivery/)
+  - [Canary Deployments](https://argo-rollouts.readthedocs.io/en/stable/features/canary/)
+  - [Blue/Green Deployments](https://argo-rollouts.readthedocs.io/en/stable/features/bluegreen/)
+- **Describe Analysis Template and AnalysisRun**
+  - [Analysis Templates](https://argo-rollouts.readthedocs.io/en/stable/features/analysis/)
+  - [Using AnalysisRun for Rollouts](https://argo-rollouts.readthedocs.io/en/stable/features/analysis/#analysisrun)
 
 ### Argo Events (12%)
-
-#### Understand Argo Events Fundamentals
-- **Resource**: [Argo Events Documentation](https://argo-events.readthedocs.io/en/stable/)
-- **Resource**: [Introduction to Argo Events](https://argo-events.readthedocs.io/en/stable/getting-started/)
-
-#### Understand Argo Event Components and Architecture
-- **Resource**: [Argo Events Architecture](https://argo-events.readthedocs.io/en/stable/architecture/)
-- **Resource**: [Components of Argo Events](https://argo-events.readthedocs.io/en/stable/concepts/components/)
+- **Understand Argo Events Fundamentals**
+  - [Argo Events Documentation](https://argo-events.readthedocs.io/en/stable/)
+  - [Introduction to Argo Events](https://argo-events.readthedocs.io/en/stable/getting-started/)
+- **Understand Argo Event Components and Architecture**
+  - [Argo Events Architecture](https://argo-events.readthedocs.io/en/stable/architecture/)
+  - [Components of Argo Events](https://argo-events.readthedocs.io/en/stable/concepts/components/)
 
 ---
 
 ### Additional Resources
 
 #### Courses
-- **Resource**: [KodeKloud Argo Training](https://www.kodekloud.com/)
-- **Resource**: [Argo Workflows Tutorials on YouTube](https://www.youtube.com/results?search_query=argo+workflows)
-- **Resource**: [Argo CD Tutorials on YouTube](https://www.youtube.com/results?search_query=argo+cd)
 
 #### Practice Labs
-- **Resource**: [Katacoda Argo Labs](https://www.katacoda.com)
-
-#### Books and Guides
-- **Resource**: *GitOps and Kubernetes* by Jesse Butler
 
 #### Community Forums and Slack Channels
-- **Resource**: [Argo Project Slack](https://cloud-native.slack.com/)
-- **Resource**: [CNCF Community](https://www.cncf.io/)

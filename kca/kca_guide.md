@@ -30,76 +30,89 @@
 
 ### Fundamentals of Kyverno (18%)
 - **Kyverno Policies & Rules**
+  - [Overview of Kyverno Policies](https://kyverno.io/docs/writing-policies/overview/)
+  - [Rules and Their Application](https://kyverno.io/docs/writing-policies/rules/)
 - **YAML Manifests**
+  - [Introduction to YAML](https://yaml.org/spec/)
+  - [YAML Best Practices for Kubernetes](https://kubernetes.io/docs/concepts/overview/working-with-objects/kubernetes-objects/)
 - **Admission Controllers**
+  - [What are Admission Controllers?](https://kubernetes.io/docs/reference/access-authn-authz/admission-controllers/)
+  - [Kyverno as an Admission Controller](https://kyverno.io/docs/introduction/architecture/)
 - **OCI Images**
-
-Resources:  
-- [Kyverno Documentation](https://kyverno.io/docs/)
-
----
+  - [Open Container Initiative (OCI)](https://opencontainers.org/)
+  - [Kyverno OCI Image Validation](https://kyverno.io/docs/writing-policies/image-verification/)
 
 ### Installation, Configuration, and Upgrades (18%)
 - **Helm-based Installation and Configuration**
+  - [Kyverno Helm Chart](https://kyverno.io/docs/installation/#helm)
+  - [Using Helm for Kyverno Configuration](https://helm.sh/docs/)
 - **Kyverno Custom Resource Definitions (CRDs)**
+  - [Kyverno CRD Documentation](https://kyverno.io/docs/installation/#kyverno-custom-resource-definitions)
 - **Controller Configuration with Flags**
-- **Configuring Kyverno RBAC, roles, and permissions**
+  - [Configuring Kyverno Controller](https://kyverno.io/docs/installation/configuration/#controller-flags)
+- **Configuring Kyverno RBAC, Roles, and Permissions**
+  - [Kyverno RBAC Configuration](https://kyverno.io/docs/installation/configuration/#rbac-settings)
 - **High Availability Installations**
+  - [HA Kyverno Deployment](https://kyverno.io/docs/installation/configuration/#high-availability)
 - **Upgrading Kyverno**
-
-Resources:  
-- [Helm Installation](https://kyverno.io/docs/installation/)  
-- [Kyverno CRDs](https://kyverno.io/docs/writing-policies/crds/)  
-
----
+  - [Upgrade Guide](https://kyverno.io/docs/installation/upgrading/)
 
 ### Kyverno CLI (12%)
-- **apply**  
-- **test**  
-- **jp**  
-- **Installing Kyverno CLI**  
-
-Resources:  
-- [Kyverno CLI Guide](https://kyverno.io/docs/cli/)  
-
----
+- **apply**
+  - [Applying Policies](https://kyverno.io/docs/cli/commands/apply/)
+- **test**
+  - [Testing Policies](https://kyverno.io/docs/cli/commands/test/)
+- **jp**
+  - [JSONPath Evaluations](https://kyverno.io/docs/cli/commands/jp/)
+- **Installing Kyverno CLI**
+  - [CLI Installation Guide](https://kyverno.io/docs/cli/installation/)
 
 ### Applying Policies (10%)
 - **Applying Policy in Cluster**
+  - [Applying Kyverno Policies](https://kyverno.io/docs/writing-policies/applying/)
 - **Resource Selection**
+  - [Resource Filters and Selections](https://kyverno.io/docs/writing-policies/rules/#resource-selection)
 - **Common Policy Settings for Kyverno Rules**
-
-Resources:  
-- [Applying Policies](https://kyverno.io/docs/applying-policies/)  
-
----
+  - [Policy Settings Guide](https://kyverno.io/docs/writing-policies/rules/#common-settings)
 
 ### Writing Policies (32%)
 - **Validation Rules**
+  - [Validation Guide](https://kyverno.io/docs/writing-policies/rules/#validation-rules)
 - **Preconditions**
+  - [Precondition Syntax](https://kyverno.io/docs/writing-policies/rules/#preconditions)
 - **Background Scans**
+  - [Background Scanning Policies](https://kyverno.io/docs/writing-policies/rules/#background)
 - **Mutation Rules**
+  - [Mutation Guide](https://kyverno.io/docs/writing-policies/rules/#mutation-rules)
 - **Generation Rules**
+  - [Resource Generation](https://kyverno.io/docs/writing-policies/rules/#generation-rules)
 - **VerifyImage Rules**
+  - [Image Verification Policies](https://kyverno.io/docs/writing-policies/image-verification/)
 - **Variables & API Calls in Policies**
+  - [Variables and API Usage](https://kyverno.io/docs/writing-policies/variables/)
 - **JSON Patches**
+  - [Using JSON Patches](https://kyverno.io/docs/writing-policies/rules/#json-patches)
 - **Autogen Rules**
+  - [Automatic Rule Generation](https://kyverno.io/docs/writing-policies/autogen/)
 - **Cleanup Policies**
+  - [Resource Cleanup Policies](https://kyverno.io/docs/writing-policies/cleanup/)
 - **Common Expression Language (CEL)**
-
-Resources:  
-- [Writing Policies](https://kyverno.io/docs/writing-policies/)  
-
----
+  - [CEL in Kyverno Policies](https://kyverno.io/docs/writing-policies/cel/)
 
 ### Policy Management (10%)
 - **Policy Reports**
+  - [Policy Reporting Guide](https://kyverno.io/docs/policy-reports/)
 - **PolicyExceptions**
+  - [Handling Policy Exceptions](https://kyverno.io/docs/policy-reports/exceptions/)
 - **Kyverno Metrics**
+  - [Metrics and Monitoring](https://kyverno.io/docs/metrics/)
 
-Resources:  
-- [Policy Management](https://kyverno.io/docs/policy-reports/)  
+---
 
+## Additional Resources
+- [Kyverno Official Documentation](https://kyverno.io/docs/)
+- [Kubernetes Documentation](https://kubernetes.io/docs/)
+- [Helm Documentation](https://helm.sh/docs/)
 ---
 
 ## Additional Resources
