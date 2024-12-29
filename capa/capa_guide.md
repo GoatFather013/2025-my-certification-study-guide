@@ -1,6 +1,29 @@
 
 # Certified Argo Project Associate (CAPA) Study Guide
 
+### My Thoughts on the Exam
+**TBA**
+
+### Why I Took the Exam
+**TBA**
+
+### About the Exam
+**TBA**
+
+### Book your exam Here
+- [Certified Argo Project Associate (CAPA)](https://training.linuxfoundation.org/certification/certified-argo-project-associate-capa/)
+
+**The exam costs $250. Explore potential discounts through LF, CNCF or other initiatives.**
+- [Linux-Foundation-Coupons - As of December 2024](https://github.com/CloudNativeStudyGroup/Linux-Foundation-Coupons) **Check this repo for possible active discount coupons**
+
+**Includes:**  
+1. Online proctored via PSI
+2. Certification Valid for 2 Years  
+3. Includes 12 Month Exam Eligibility  
+4. Includes 1 Retake  
+5. Multiple Choice Exam  
+6. Duration of Exam 90 minutes  
+
 ---
 
 ## Domains, Competencies, and Information

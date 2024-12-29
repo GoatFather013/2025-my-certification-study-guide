@@ -11,12 +11,18 @@
 **TBA**
 
 ### Book your exam Here
-**TBA**
+- [Kyverno Certified Associate (KCA)](https://training.linuxfoundation.org/certification/kyverno-certified-associate-kca/)
 
+**The exam costs $250. Explore potential discounts through LF, CNCF or other initiatives.**
+- [Linux-Foundation-Coupons - As of December 2024](https://github.com/CloudNativeStudyGroup/Linux-Foundation-Coupons) **Check this repo for possible active discount coupons**
 
-https://training.linuxfoundation.org/certification/kyverno-certified-associate-kca/
-
-*The exam costs $250. Explore potential discounts through LF or CNCF initiatives.*
+**Includes:**  
+1. Online proctored via PSI  
+2. Certification Valid for 2 Years  
+3. Includes 12 Month Exam Eligibility  
+4. Includes 1 Retake  
+5. Multiple Choice Exam  
+6. Duration of Exam 90 minutes  
 
 ---
 

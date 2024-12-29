@@ -10,10 +10,18 @@
 **TBA**
 
 ### Book your exam here
-**TBA**
+- [OpenTelemetry Certified Associate (OTCA)](https://training.linuxfoundation.org/certification/opentelemetry-certified-associate-otca/)
 
-*The exam costs $250. Explore potential discounts through LF or CNCF initiatives.*
-https://training.linuxfoundation.org/certification/opentelemetry-certified-associate-otca/
+**The exam costs $250. Explore potential discounts through LF, CNCF or other initiatives.**
+- [Linux-Foundation-Coupons - As of December 2024](https://github.com/CloudNativeStudyGroup/Linux-Foundation-Coupons) **Check this repo for possible active discount coupons**
+
+**Includes:**  
+1. Online proctored via PSI
+2. Certification Valid for 2 Years  
+3. Includes 12 Month Exam Eligibility  
+4. Includes 1 Retake  
+5. Performance-based & Multiple Choice Exam  
+6. Duration of Exam 120 minutes  
 
 ---
 
