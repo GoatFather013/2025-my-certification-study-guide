@@ -41,22 +41,22 @@ To assist friends and colleagues in passing the certifications I’ve completed 
 The repository contains various subfolders with information and resources for specific certifications:
 
 **Entry Level Certifications**
-- [AWS Certified AI Practitioner AIF-C01](TODO)
-- [Cilium Certified Associate](TODO)
+- [AWS Certified AI Practitioner AIF-C01](./aws/aif-c01/aif-c01_guide.md) **Guide is unfinished as I still need to take the exam.**
+- [Cilium Certified Associate](./linux_foundation/cca/cca_guide.md) **Guide is unfinished as I still need to take the exam.**
 
 **Associate Level Certifications**
-- [Istio Certified Associate](TODO)
-- [Certified Argo Project Associate](TODO)
-- [Certified Backstage Associate](TODO)
-- [OpenTelemetry Certified Associate](TODO)
-- [Kyverno Certified Associate](TODO)
-- [AWS Certified Data Engineer - Associate DEA-C01](TODO)
-- [AWS Certified Machine Learning Engineer - Associate MLA-C01](TODO)
+- [Istio Certified Associate](./linux_foundation/ica/ica_guide.md) **Guide is unfinished as I still need to take the exam.**
+- [Certified Argo Project Associate](./linux_foundation/capa/capa_guide.md) **Guide is unfinished as I still need to take the exam.**
+- [Certified Backstage Associate](./linux_foundation/cba/cba_guide.md) **Guide is unfinished as I still need to take the exam.**
+- [OpenTelemetry Certified Associate](./linux_foundation/otca/otca_guide.md) **Guide is unfinished as I still need to take the exam.**
+- [Kyverno Certified Associate](./linux_foundation/kca/kca_guide.md) **Guide is unfinished as I still need to take the exam.**
+- [AWS Certified Data Engineer - Associate DEA-C01](./aws/dea-c01/dea-c01_guide.md) **Guide is unfinished as I still need to take the exam.**
+- [AWS Certified Machine Learning Engineer - Associate MLA-C01](./aws/mla-c01/mla-c01_guide.md) **Guide is unfinished as I still need to take the exam.**
 
 **Professional Level Certifications**
-- [RedHat Certified System Administrator](TODO)
-- [AWS Certified Solutions Architect - Professional SAP-C02](TODO)
-- [AWS Certified DevOps Engineer - Professional DOP-C02](TODO)
+- [RedHat Certified System Administrator](./redhat/rhsca/rhsca_guide.md) **Guide is unfinished as I still need to take the exam.**
+- [AWS Certified Solutions Architect - Professional SAP-C02](./aws/sap-c02/sap-c02_guide.md) **Guide is unfinished as I still need to take the exam.**
+- [AWS Certified DevOps Engineer - Professional DOP-C02](./aws/dop-c02/dop-c02_guide.md) **Guide is unfinished as I still need to take the exam.**
 
 **Speciality Level Certifications**
 - TBA
