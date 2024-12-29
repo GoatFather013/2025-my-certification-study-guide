@@ -82,15 +82,23 @@
 
 ### Courses
 - [Linux Foundation: Introduction to Istio (LFS144)](https://trainingportal.linuxfoundation.org/courses/introduction-to-istio-lfs144)
-- [KodeKloud: Istio Service Mesh](https://learn.kodekloud.com/user/courses/istio-service-mesh) **Not a certification prep, but a good way to learn Istio and it comes with labs.**
-- [KillerCoda: Istio Certified Associate (ICA) - Lorenzo Gironi](https://killercoda.com/lorenzo-g) **These scenarios can be used standalone for ICA exam preparation or to learn and study Istio service mesh.**
-- [KillerCoda: Istio Certified Associate (ICA) - Community | David Pech](https://killercoda.com/ica-scenarios) **Interactive Scenarios for the ICA from maintainers**
+- [Youtube: Mesh Week (Session 1): Istio installation, upgrade & configuration](https://www.youtube.com/watch?v=w_8Gg_jsAbU)
+- [Youtube: Mesh Week (Session 2): Istio Traffic management](https://www.youtube.com/watch?v=Q-l1z3ejc8Q)
+- [Youtube: Mesh Week (Session 3): Istio Resiliency and fault injection](https://www.youtube.com/watch?v=df6A9PyhubQ)
+- [Youtube: Mesh Week (Session 4): Security in Istio and securing workloads](https://www.youtube.com/watch?v=uO-X1U1l23I)
+- [Youtube: Mesh Week (Session 5): Advanced scenarios and troubleshooting Istio](https://www.youtube.com/watch?v=Od7L-3tE9oA)
+- [Youtube: Mesh Week: Mock Istio Certified Associate Exam](https://www.youtube.com/watch?v=AW8p3_pe64A)
 
 ### Practice Exams
-**TBA**
+- [Udemy: Labs - Exercise Istio Certified Associate - ICA](https://www.udemy.com/course/pe-lf-ica)
+- [Udemy: Istio Certified Associate (ICA) Practice Exams](https://www.udemy.com/course/istio-certified-associate-practice-exams)
 
 ### Sources
 - [Sajeeva Lakmal: How to Pass ICA (Istio Certified Associate) Exam](https://medium.com/@nvsajeeva/how-to-pass-ica-istio-certified-associate-exam-355152566bc8)
+- [KillerCoda: Istio Certified Associate (ICA) - Lorenzo Gironi](https://killercoda.com/lorenzo-g) **These scenarios can be used standalone for ICA exam preparation or to learn and study Istio service mesh.**
+- [KillerCoda: Istio Certified Associate (ICA) - Community | David Pech](https://killercoda.com/ica-scenarios) **Interactive Scenarios for the ICA from maintainers**
+- [KodeKloud: Istio Service Mesh](https://learn.kodekloud.com/user/courses/istio-service-mesh) **Not a certification prep, but a good way to learn Istio and it comes with labs.**
+- [Udemy: Istio Hands-On for Kubernetes](https://www.udemy.com/course/istio-hands-on-for-kubernetes)
 
-### Time Spent
+### Time Spent 
 **TBA**

@@ -11,7 +11,7 @@ To assist friends and colleagues in passing the certifications I’ve completed 
 
 **My Experience:**
 - **Kubernetes:**  
-  - 2.5 years of experience working with Amazon EKS, a managed Kubernetes platform, home labs and production clusters.
+  - 2.5 years of experience working with Amazon EKS, Google Kubernetes Engine, home labs and production clusters.
 
 - **Cloud:**
   - 9 years of experience working with AWS.

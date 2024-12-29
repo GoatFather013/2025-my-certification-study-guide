@@ -84,8 +84,21 @@
 
 ### Additional Resources
 
-#### Courses
+### Courses
+- [Youtube: ArgoCD Tutorial for Beginners | GitOps CD for Kubernetes](https://www.youtube.com/watch?v=MeU5_k9ssrs)
+- [Youtube: ArgoCD](https://www.youtube.com/watch?v=T-ERIOb_3z0&list=PLYrn63eEqAzYttcyB6On1oH35O5rxgDt4)
+- [KodeKloud: GitOps with ArgoCD](https://learn.kodekloud.com/courses/gitops-with-argocd)
 
-#### Practice Labs
+### Practice Exams
+- [Udemy: Certified Argo Project Associate (CAPA) Mock Exams 2025](https://www.udemy.com/course/certified-argo-project-associate-capa)
+- [Udemy: Certified Argo Project Associate (CAPA) Practice Exams](https://www.udemy.com/course/certified-argo-project-associate-practice-exams)
 
-#### Community Forums and Slack Channels
+### Practice Labs
+- [KillerCoda: Argo - Argo Project](https://killercoda.com/argoproj)
+- [KillerCoda: Argo - Argo CD for End Users](https://killercoda.com/mabusaa/course/argocd-endusers-scenarios)
+
+### Sources
+- [Sajeeva Lakmal: How to Pass CAPA (Certified Argo Project Associate) Exam](https://medium.com/@nvsajeeva/how-to-pass-capa-certified-argo-project-associate-exam-1ae3f0737db8)
+
+### Time Spent
+**TBA**

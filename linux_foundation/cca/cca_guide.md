@@ -112,7 +112,7 @@
 - [Youtube: Cilium Week (Session 3): BGP, Service mesh & Cluster mesh](https://www.youtube.com/watch?v=eNx2wqSB7rY)
 
 ### Practice Exams
-**TBA**
+- [Udemy: Cilium Certified Associate Practice Exams](https://www.udemy.com/course/cilium-certified-associate-practice-exams)
 
 ### Sources
 - [Sajeeva Lakmal: How to Pass CCA (Cilium Certified Associate) Exam](https://medium.com/@nvsajeeva/how-to-pass-cca-cilium-certified-associate-exam-5a1b4f6ca63b)
